@@ -1,18 +1,39 @@
+# Site Reliability Engineering
 
+**Reliability · Observability · Infrastructure Automation**
 
-## SRE • DevOps • Platform Engineering
+Technical portfolio focused on the reliability and availability of systems, practical Kubernetes labs and continuous improvement of infrastructure.
 
-Technical portfolio focused on infrastructure automation, Kubernetes, observability and reliability.
+## Core focus
+
+- **Reliability:** high availability, incident response, root cause analysis (RCA) and troubleshooting.
+- **Observability:** logs, metrics, dashboards and alerting.
+- **Infrastructure:** Linux, containers, Kubernetes and AWS.
+- **Automation:** Infrastructure as Code, operational scripting, CI/CD and GitOps practices.
 
 ## Technology stack
 
+### Cloud & containers
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Observability
+
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge)
+
+### Infrastructure as Code & automation
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+The repositories below document practical learning and reference material; planned capabilities are identified separately.
 
 ## Featured repositories
 
