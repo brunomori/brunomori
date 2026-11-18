@@ -1,8 +1,10 @@
-# Site Reliability Engineering
+# Site Reliability Engineering | SRE & DevOps
 
 **Reliability · Observability · Infrastructure Automation**
 
-Technical portfolio focused on the reliability and availability of systems, practical Kubernetes labs and continuous improvement of infrastructure.
+Technical portfolio focused on reliable systems, infrastructure automation and practical Kubernetes engineering.
+
+I document hands-on labs, operational troubleshooting and infrastructure concepts with an emphasis on reproducibility, clear validation steps and continuous improvement.
 
 ## Core focus
 
@@ -11,7 +13,7 @@ Technical portfolio focused on the reliability and availability of systems, prac
 - **Infrastructure:** Linux, containers, Kubernetes and AWS.
 - **Automation:** Infrastructure as Code, operational scripting, CI/CD and GitOps practices.
 
-## Technology stack
+## Technology stack — experience and learning
 
 ### Cloud & containers
 
@@ -35,7 +37,7 @@ Technical portfolio focused on the reliability and availability of systems, prac
 
 The repositories below document practical learning and reference material; planned capabilities are identified separately.
 
-## Featured repositories
+## Featured repositories — hands-on learning
 
 | Repository | Focus |
 | --- | --- |
@@ -46,7 +48,7 @@ The repositories below document practical learning and reference material; plann
 | [Linux](https://github.com/brunomori/linux) | System administration and troubleshooting |
 | [DevOps Automation](https://github.com/brunomori/workspace-devops-automation) | GitHub Actions and CI fundamentals |
 
-## Current project — SRE Platform Lab
+## Flagship project — SRE Platform Lab
 
 **Status: planning and development**
 
@@ -60,7 +62,7 @@ Planned scope:
 - Metrics, logs, dashboards and alerting
 - Troubleshooting, recovery exercises and runbooks
 
-## Learning principles
+## Engineering practices
 
 - Build reproducible labs and document the results.
 - Understand failure modes, not just successful deployments.
